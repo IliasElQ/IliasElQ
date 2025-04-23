@@ -27,7 +27,6 @@
 
 ### 📊 GitHub Stats  
 ![Ilias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IliasElQ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IliasElQ&layout=compact&theme=radical)
 
 ---
 
