@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/Ilias%20El%20Qadiri)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/iliaselqadiri/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/IliasElQ)  
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-05122A?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Ilias%20El%20Qadiri)  
 
